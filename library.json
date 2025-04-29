@@ -1,0 +1,35 @@
+[
+  {
+    "title":"The Greatest Salesman In the World",
+    "author": "Og Mandino",
+    "publication_year": 1983,
+    "genre":"Programming",
+    "read_status": false,
+    "added_data": "2025-04-92 09:17:30"
+  },
+  {
+    "title":"Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "publication_year": 1937,
+    "genre":"Programming",
+    "read_status": true,
+    "added_data": "2025-03-07 10:35:80"
+  },
+  {
+    "title":"Fluent Python",
+    "author": "Ramalho",
+    "publication_year": 2022,
+    "genre":"Programming",
+    "read_status": false,
+    "added_data": "2025-03-10 07:35:30"
+  },
+  {    
+    "title":"Effective Python",
+    "author": "Brett Slatkin",
+    "publication_year": 2020,
+    "genre":"Programming",
+    "read_status": true,
+    "added_data": "2025-03-03 03:27:07"
+    
+  }
+]
